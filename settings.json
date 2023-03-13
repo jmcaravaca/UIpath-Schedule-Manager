@@ -1,0 +1,12 @@
+
+{
+
+"tenantName": "Default",
+"baseurl" : "https://orchestratorsta.masmovil.com/",
+
+"endpoint_Auth" : "/api/Account/Authenticate",
+"endpoint_GetFolders" : "/odata/Folders",
+"endpoint_GetTriggers" : "/odata/ProcessSchedules",
+"endpoint_ToggleSchedules" : "/odata/ProcessSchedules/UiPath.Server.Configuration.OData.SetEnabled"
+
+}
